@@ -6,7 +6,7 @@ import java.util.Date;
  * The Class ExceptionFormat is the customized format for all the Exceptions
  * thrown in this project.
  * 
- * @author dhkannan
+ * 
  * @since 21.02
  */
 public class ExceptionFormat {

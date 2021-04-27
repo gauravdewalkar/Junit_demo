@@ -12,7 +12,7 @@ import com.unittesting.model.Item;
  * The Class ItemRepository that extends JpaRepository which we use to perform
  * CRUD operations and store records to H2 Console
  * 
- * @author dhkannan
+ * 
  * @since 21.02
  */
 @Repository

@@ -14,7 +14,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExcep
  * The CustomizedExceptionFormat class returns the response for the Exceptions
  * in the customized formats.
  * 
- * @author dhkannan
+ * 
  * @since 21.02
  */
 @ControllerAdvice

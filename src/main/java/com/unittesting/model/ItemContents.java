@@ -7,7 +7,7 @@ import lombok.Getter;
 /**
  * The Class ItemModel contains getters and setters to store the datas
  * 
- * @author dhkannan
+ * 
  *
  */
 @Getter

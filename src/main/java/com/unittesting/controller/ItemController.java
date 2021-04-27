@@ -25,7 +25,7 @@ import com.unittesting.model.ItemContents;
  * The Class ItemController routes the different requests to their corresponding
  * methods and returns the respective responses back to the user.
  * 
- * @author dhkannan
+ * 
  * @since 21.02
  */
 @RestController

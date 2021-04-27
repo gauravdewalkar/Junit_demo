@@ -24,7 +24,7 @@ import com.unittesting.model.Item;
  * The Class ItemBusinessServiceTest contains various methods to test the
  * business logics in ItemBusinessService class
  * 
- * @author dhkannan
+ * 
  * @since 21.02
  */
 @RunWith(SpringRunner.class)

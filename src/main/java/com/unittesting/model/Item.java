@@ -10,7 +10,7 @@ import lombok.Getter;
  * The Class Item contains getters and setters to store and retrieve the entity
  * from the db
  * 
- * @author dhkannan
+ * 
  * @since 21.02
  */
 @Entity
